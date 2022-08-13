@@ -1,0 +1,14 @@
+.mole-mounds {
+  display: flex;
+  flex-wrap: wrap;
+  align-self: center;
+  justify-content: space-around;
+  width: 50%;
+}
+
+.App{
+  display: flex;
+  text-align: center;
+  align-items: center;
+  flex-direction: column
+}
